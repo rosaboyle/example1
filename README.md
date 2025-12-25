@@ -6,6 +6,12 @@
 
 [![Install Badge](https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/install.svg)](https://leanmcp.com/install) <!-- Replace with your install link -->
 
+
+[![Install Badge](https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/deploy.svg)](https://leanmcp.com/install) <!-- Replace with your install link -->
+
+[![Install Badge](https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/test.svg)](https://leanmcp.com/install) <!-- Replace with your install link -->
+
+
 [![Test Playground Badge](https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/test-playground.svg)](https://leanmcp.com/playground) <!-- Replace with your test/playground link -->
 
 
@@ -20,6 +26,15 @@
   <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/install.svg" alt="Install Badge">
 </a>
 
+
+<a href="https://leanmcp.com/install"> <!-- Replace with your install link -->
+  <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/deploy.svg" alt="Install Badge">
+</a>
+
+
+<a href="https://leanmcp.com/install"> <!-- Replace with your install link -->
+  <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/test.svg" alt="Install Badge">
+</a>
 <a href="https://leanmcp.com/playground"> <!-- Replace with your test/playground link -->
   <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/test-playground.svg" alt="Test Playground Badge">
 </a>
