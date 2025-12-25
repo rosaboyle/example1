@@ -40,3 +40,17 @@
   <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/test-playground.svg" alt="Test Playground Badge" width="120">
 </a>
 
+
+## Badges
+
+<a href="https://leanmcp.com">
+  <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/leanmcp.svg" alt="LeanMCP Badge" height="30">
+</a>
+
+<a href="https://leanmcp.com/install"> <!-- Replace with your install link -->
+  <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/install.svg" alt="Install Badge" height="30">
+</a>
+
+<a href="https://leanmcp.com/playground"> <!-- Replace with your test/playground link -->
+  <img src="https://raw.githubusercontent.com/LeanMCP/leanmcp-sdk/refs/heads/main/badges/test-playground.svg" alt="Test Playground Badge" height="30">
+</a>
